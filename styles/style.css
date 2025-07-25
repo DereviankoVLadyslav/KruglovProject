@@ -578,7 +578,7 @@ section {
   .hero-photo {
     position: static;
     width: 85vw;
-    max-width: 430px;
+    max-width: 410px;
     height: auto;
     transform: none;
   }
